@@ -1,0 +1,7 @@
+hi
+i am other hello
+this is testing for the git
+git init
+git add .
+git commit -m "hi"
+
